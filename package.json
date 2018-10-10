@@ -1,0 +1,22 @@
+{
+  "name": "@lijj/mykeyboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljjrhm/myKeyBoard.git"
+  },
+  "keywords": [
+    "mykeyboard"
+  ],
+  "author": "lijj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljjrhm/myKeyBoard/issues"
+  },
+  "homepage": "https://github.com/ljjrhm/myKeyBoard#readme"
+}
