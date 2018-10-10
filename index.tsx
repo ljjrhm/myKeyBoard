@@ -1,13 +1,12 @@
 import "./keyboard.less";
-import { ReactDOM } from "./framework/component/react-dom";
-import { Cookie } from "./framework/basic/cookie";
-import { React } from "./framework/component/react";
-import { Key } from "./framework/basic/key";
-import { Focus } from "./framework/component/focus";
-import { Json } from "./framework/basic/Json";
-import { PageEvent, PageType } from "./framework/component/pageEvent";
-import { HElement } from './framework/basic/helement';
-
+import { ReactDOM } from "../../../src/framework/component/react-dom";
+import { Cookie } from "../../../src/framework/basic/cookie";
+import { React } from "../../../src/framework/component/react";
+import { Key } from "../../../src/framework/basic/key";
+import { Focus } from "../../../src/framework/component/focus";
+import { Json } from "../../../src/framework/basic/Json";
+import { PageEvent, PageType } from "../../../src/framework/component/pageEvent";
+import { HElement } from '../../../src/framework/basic/helement';
 
 interface IKeyboardProps {
     identCode: number;
